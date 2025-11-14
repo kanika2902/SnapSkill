@@ -1,5 +1,7 @@
 # ⭐ SnapSkill – Interview Prep Web App
 
+### 🔗 Live Website: **https://snap-skill.vercel.app/**
+
 SnapSkill is a clean and interactive **interview preparation web application** built using **HTML, CSS, JavaScript, and React.js**, designed specifically for **desktop browsers**.  
 It helps students prepare for placement interviews through organized resources, sample answers, dark/light mode, and a built-in voice recording feature.
 
@@ -72,3 +74,6 @@ It provides structured interview content and interactive features to help studen
 🚧 Mobile version (in progress)
 
 ---
+
+### 🔗 Live Website  
+👉 **https://snap-skill.vercel.app/**
