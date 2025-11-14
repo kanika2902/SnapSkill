@@ -36,3 +36,127 @@
     transform: rotate(360deg);
   }
 }
+
+/* ===== DARK MODE COLORS BASED ON YOUR COLOR SCHEME ===== */
+body.dark-mode {
+  background-color: #26262c  /* Very dark background */
+  /* color: #131316;             Light tan text (replaces #6b4213e0) */
+}
+
+/* Header */
+body.dark-mode .header{
+background-color: #39393e;
+}
+
+body.dark-mode .footer,
+body.dark-mode .footer-container{
+  background-color: #39393e;
+  color: white;
+}
+body.dark-mode .prop-section {
+  background-color: #26262c;
+}
+
+body.dark-mode .four-boxes .box{
+   background-color: rgb(59, 58, 58);
+   color: white ;
+}
+
+
+
+/* Buttons */
+body.dark-mode .toggle-btn {
+  border: 1px solid #d2b48c;
+  color: white;
+  background-color:black ;
+}
+
+
+
+/* Categories Section */
+body.dark-mode .category-card,
+body.dark-mode .cate-main {
+  background-color: #26262c;
+  color: white;
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.08);
+}
+
+body.dark-mode .category-card:hover,
+body.dark-mode .cate-main:hover {
+  background-color: #26262c;
+}
+
+body.dark-mode .question-card
+body.dark-mode .category-box{
+  background-color: #39393e;
+  color: white;
+}
+body.dark-mode .question-card{
+  background-color: #39393e;
+  color: white;
+}
+
+body.dark-mode .sample-answer{
+    background-color: #39393e;
+  color: white;
+}
+
+body.dark-mode #categories{
+  background-color: #39393e;
+}
+body.dark-mode .category-box{
+      background-color: #39393e;
+  color: white;
+}
+body.dark-mode .back-btn{
+        background-color: #39393e;
+  color: white;
+
+} 
+body.dark-mode .category-page h2{
+color:rgb(212, 201, 201);
+}
+
+
+
+
+body.dark-mode .about-heading,
+body.dark-mode .category-heading,
+body.dark-mode .cate-main h1,
+body.dark-mode .cate-main p
+{
+  color:white ;
+}
+/* Footer */
+
+
+body.dark-mode .footer-bottom {
+  border-top: 1px solid #d2b48c;
+}
+
+/* Social icons */
+body.dark-mode .social-icons a {
+  color: white;
+}
+
+/* About Section Cards */
+body.dark-mode .about-left,
+body.dark-mode .about-right,
+body.dark-mode .about-left-bottom,
+body.dark-mode .about-right-bottom {
+  background-color:#39393e;
+  border-left: 5px solid #d2b48c;
+  color: white;
+}
+
+/* Intro Section */
+body.dark-mode .intro-right h1,
+body.dark-mode .intro-right p {
+  color: white;
+}
+
+/* Optional: Make links softer */
+body.dark-mode a {
+  color: white;
+}
+
